@@ -7,3 +7,7 @@ iron Man (deutsch: „Eisenmann“, in den ersten deutschen Veröffentlichungen 
 * Kann Fliegen
 * Kann Laser schießen 
 * Ist reich 
+
+As Tony Stark said: 
+
+> Ich bin Iron Man!
